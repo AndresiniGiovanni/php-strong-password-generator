@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(8, 12, 17);
+  color: white;
+  font-size: 20px;
+}
+input {
+  border-radius: 10px;
+  display: block;
+}
+button{
+    margin-top: 20px;
+}
+.psw{
+    margin-top: 1rem;
+    width:  50%;
+}
+.my-btn{
+width: 10rem;
+}
